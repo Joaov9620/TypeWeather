@@ -17,7 +17,8 @@
 .next-next-detail {
   display: flex;
   justify-content: space-around;
-
+  gap: 15px;
+  flex-wrap: wrap;
   margin-top: 48px;
 }
 

@@ -1,9 +1,10 @@
 import './styles.css';
+import { Link } from 'react-router-dom';
 
 export function Logo() {
   return (
-    <div className='logo'>
+    <Link to="/" className="logo">
       <img src="logo.png" alt="Logo" />
-    </div>
-  )
+    </Link>
+  );
 }
