@@ -46,4 +46,4 @@ $ npm install
 
 ## Deploy 
 
--🌐 **Deploy do Projeto:** [Link](https://github.com/Joaov9620)
+-🌐 **Deploy do Projeto:** [Link](https://typeweatherprev.netlify.app)
