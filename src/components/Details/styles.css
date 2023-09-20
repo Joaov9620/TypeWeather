@@ -1,6 +1,6 @@
 .weather-detail {
   grid-area: weather-details;
-
+  overflow: auto;
   background-color: var(--gray-800);
   padding: 28px 24px 24px;
   border-radius: 12px;

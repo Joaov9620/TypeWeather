@@ -10,7 +10,7 @@
 }
 
 
-@media (max-width: 1170px) {
+@media (max-width: 1160px) {
   .dashboard {
     display: flex;
     flex-direction: column;
